@@ -10,4 +10,4 @@ The working directory is src/pyscf_methods, the S66x8 dataset information is in 
 
 If you use this code, please cite:
 
-N. Patel, K. Li, A. Damle, *Locally Adaptive Direct Minimization for Mean-Field Electronic Structure*, J. Chem. Theory Comput. (submitted, 2026).
+N. Patel, K. Li, A. Damle, *Locally Adaptive Direct Minimization for Mean-Field Electronic Structure*, (submitted, 2026).
