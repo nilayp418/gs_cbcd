@@ -1,0 +1,266 @@
+{
+    "1": [
+        "Water",
+        "Water"
+    ],
+    "2": [
+        "Water",
+        "MeOH"
+    ],
+    "3": [
+        "Water",
+        "MeNH2"
+    ],
+    "4": [
+        "Water",
+        "Peptide"
+    ],
+    "5": [
+        "MeOH",
+        "MeOH"
+    ],
+    "6": [
+        "MeOH",
+        "MeNH2"
+    ],
+    "7": [
+        "MeOH",
+        "Peptide"
+    ],
+    "8": [
+        "MeOH",
+        "Water"
+    ],
+    "9": [
+        "MeNH2",
+        "MeOH"
+    ],
+    "10": [
+        "MeNH2",
+        "MeNH2"
+    ],
+    "11": [
+        "MeNH2",
+        "Peptide"
+    ],
+    "12": [
+        "MeNH2",
+        "Water"
+    ],
+    "13": [
+        "Peptide",
+        "MeOH"
+    ],
+    "14": [
+        "Peptide",
+        "MeNH2"
+    ],
+    "15": [
+        "Peptide",
+        "Peptide"
+    ],
+    "16": [
+        "Peptide",
+        "Water"
+    ],
+    "17": [
+        "Uracil",
+        "Uracil"
+    ],
+    "18": [
+        "Water",
+        "Pyridine"
+    ],
+    "19": [
+        "MeOH",
+        "Pyridine"
+    ],
+    "20": [
+        "AcOH",
+        "AcOH"
+    ],
+    "21": [
+        "AcNH2",
+        "AcNH2"
+    ],
+    "22": [
+        "AcOH",
+        "Uracil"
+    ],
+    "23": [
+        "AcNH2",
+        "Uracil"
+    ],
+    "24": [
+        "Benzene",
+        "Benzene"
+    ],
+    "25": [
+        "Pyridine",
+        "Pyridine"
+    ],
+    "26": [
+        "Uracil",
+        "Uracil"
+    ],
+    "27": [
+        "Benzene",
+        "Pyridine"
+    ],
+    "28": [
+        "Benzene",
+        "Uracil"
+    ],
+    "29": [
+        "Pyridine",
+        "Uracil"
+    ],
+    "30": [
+        "Benzene",
+        "Ethene"
+    ],
+    "31": [
+        "Uracil",
+        "Ethene"
+    ],
+    "32": [
+        "Uracil",
+        "Ethyne"
+    ],
+    "33": [
+        "Pyridine",
+        "Ethene"
+    ],
+    "34": [
+        "Pentane",
+        "Pentane"
+    ],
+    "35": [
+        "Neopentane",
+        "Pentane"
+    ],
+    "36": [
+        "Neopentane",
+        "Neopentane"
+    ],
+    "37": [
+        "Cyclopentane",
+        "Neopentane"
+    ],
+    "38": [
+        "Cyclopentane",
+        "Cyclopentane"
+    ],
+    "39": [
+        "Benzene",
+        "Cyclopentane"
+    ],
+    "40": [
+        "Benzene",
+        "Neopentane"
+    ],
+    "41": [
+        "Uracil",
+        "Pentane"
+    ],
+    "42": [
+        "Uracil",
+        "Cyclopentane"
+    ],
+    "43": [
+        "Uracil",
+        "Neopentane"
+    ],
+    "44": [
+        "Ethene",
+        "Pentane"
+    ],
+    "45": [
+        "Ethyne",
+        "Pentane"
+    ],
+    "46": [
+        "Peptide",
+        "Pentane"
+    ],
+    "47": [
+        "Benzene",
+        "Benzene"
+    ],
+    "48": [
+        "Pyridine",
+        "Pyridine"
+    ],
+    "49": [
+        "Benzene",
+        "Pyridine"
+    ],
+    "50": [
+        "Benzene",
+        "Ethyne"
+    ],
+    "51": [
+        "Ethyne",
+        "Ethyne"
+    ],
+    "52": [
+        "Benzene",
+        "AcOH"
+    ],
+    "53": [
+        "Benzene",
+        "AcNH2"
+    ],
+    "54": [
+        "Benzene",
+        "Water"
+    ],
+    "55": [
+        "Benzene",
+        "MeOH"
+    ],
+    "56": [
+        "Benzene",
+        "MeNH2"
+    ],
+    "57": [
+        "Benzene",
+        "Peptide"
+    ],
+    "58": [
+        "Pyridine",
+        "Pyridine"
+    ],
+    "59": [
+        "Ethyne",
+        "Water"
+    ],
+    "60": [
+        "Ethyne",
+        "AcOH"
+    ],
+    "61": [
+        "Pentane",
+        "AcOH"
+    ],
+    "62": [
+        "Pentane",
+        "AcNH2"
+    ],
+    "63": [
+        "Benzene",
+        "AcOH"
+    ],
+    "64": [
+        "Peptide",
+        "Ethene"
+    ],
+    "65": [
+        "Pyridine",
+        "Ethyne"
+    ],
+    "66": [
+        "MeNH2",
+        "Pyridine"
+    ]
+}

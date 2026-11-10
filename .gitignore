@@ -1,0 +1,7 @@
+__pycache__/
+*.dylib
+*.so
+*.o
+*.log
+.DS_Store
+.ipynb_checkpoints/
